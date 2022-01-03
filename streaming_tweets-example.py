@@ -20,10 +20,11 @@ ascii_file = './logs/working/working-text-ascii.txt'
 
 
 # set credentials
-consumer_key = "jJeGn5IMYMGAPTl8ZO2JsWrcU"
-consumer_secret = "ZE1ESyQOQ9kFJ8SXv4aGB6pA6Y4gtFX8f3cGpCYT9tlEdVm5Ah"
-access_token = "866763740506722304-ynGexPZLbyXHnwhTPF1zqNQp1sJ4rrZ"
-access_secret = "lgU9YSsMwR1S3svM0kyfvMm9WpOgzXkkzoyRxjKoJU7Qt"
+# put in your own
+#consumer_key = ""
+#consumer_secret = ""
+#access_token = ""
+#access_secret = ""
 
 
 # define class 
